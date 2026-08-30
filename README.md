@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Cesar 👋🏾
 
-<!--
-**CesarNignan/CesarNignan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud Engineering Student | Linux | AWS | DevOps | Building Skills in Infrastructure & Automation
 
-Here are some ideas to get you started:
+I'm currently on a 12-month **Cloud Engineering** journey at **AltSchool Africa**, building my foundation in software engineering, Linux, cloud infrastructure, automation, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal isn't just to complete the program.
+
+**I want to become genuinely good at this.**
+
+I'm documenting the journey here: the projects I build, the things I break, the problems I solve, and everything I learn along the way.
+
+---
+
+## What I'm Currently Learning
+
+- 🐧Linux & System Administration
+- Bash Scripting
+- ☁️ Cloud Computing & Infrastructure
+- 🌐 Networking
+- 🐈‍⬛ Git & GitHub
+- 🐳 Containers & Docker
+- ♾️ DevOps & CI/CD
+-  Infrastructure as Code
+- 🔐 Cloud Security
+- 🛡️ Monitoring & Observability
