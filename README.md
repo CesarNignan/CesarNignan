@@ -1,5 +1,7 @@
 # Hey, I'm Cesar 👋🏾
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarnignan)
+
 ### ☁️ Cloud Engineering Student | Linux | AWS | DevOps | Building Skills in Infrastructure & Automation
 
 I'm currently on a 12-month **Cloud Engineering** journey at **AltSchool Africa**, building my foundation in software engineering, Linux, cloud infrastructure, automation, and DevOps.
