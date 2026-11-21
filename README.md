@@ -4,13 +4,13 @@
 
 ### ☁️ Cloud Engineering Student | Linux | AWS | DevOps | Building Skills in Infrastructure & Automation
 
-I'm currently on a 12-month **Cloud Engineering** journey at **AltSchool Africa**, building my foundation in software engineering, Linux, cloud infrastructure, automation, and DevOps.
+I'm currently pursuing my journey in Cloud Engineering through **AltSchool Africa**, developing hands-on skills in Linux, AWS, infrastructure, automation, DevOps, and cloud security.
 
-My goal isn't just to complete the program.
+My goal goes beyond completing a program or learning tools. I want to develop a deep understanding of how systems work, how infrastructure is designed, and how to solve real-world engineering problems.
 
-**I want to become genuinely good at this.**
+Along the way, I've built several projects using different AWS services, tools, architectural approaches, and problem-solving techniques. These projects allow me to put theory into practice, make technical decisions, troubleshoot issues, and continuously improve my engineering skills.
 
-I'm documenting the journey here: the projects I build, the things I break, the problems I solve, and everything I learn along the way.
+**Feel free to explore my pinned repositories to see what I've built, and visit my other repositories for more projects, experiments, and ongoing work.**
 
 ---
 
